@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="Tixook" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Diz&logo=discord&label=@tixook&color=7289DA&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Diz&logo=discord&label=@tixobit&color=7289DA&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="Jaafari.m7853@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
